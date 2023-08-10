@@ -1,6 +1,4 @@
-package br.com.dio;
-
-import br.com.dio.model.Gato;
+package br.com.dio.model;
 
 public class PrimeiroPrograma {
     public static void main(String[] args) {
